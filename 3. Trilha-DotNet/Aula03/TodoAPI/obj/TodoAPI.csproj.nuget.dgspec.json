@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/wilton-freire-timoteo/Área de trabalho/Residencia-Trilha/ExerciciosAula03/TodoAPI/TodoAPI.csproj": {}
+    "/home/wilton-freire-timoteo/Área de trabalho/ResidenciaTIC18/3. Trilha-DotNet/Aula03/TodoAPI/TodoAPI.csproj": {}
   },
   "projects": {
-    "/home/wilton-freire-timoteo/Área de trabalho/Residencia-Trilha/ExerciciosAula03/TodoAPI/TodoAPI.csproj": {
+    "/home/wilton-freire-timoteo/Área de trabalho/ResidenciaTIC18/3. Trilha-DotNet/Aula03/TodoAPI/TodoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wilton-freire-timoteo/Área de trabalho/Residencia-Trilha/ExerciciosAula03/TodoAPI/TodoAPI.csproj",
+        "projectUniqueName": "/home/wilton-freire-timoteo/Área de trabalho/ResidenciaTIC18/3. Trilha-DotNet/Aula03/TodoAPI/TodoAPI.csproj",
         "projectName": "TodoAPI",
-        "projectPath": "/home/wilton-freire-timoteo/Área de trabalho/Residencia-Trilha/ExerciciosAula03/TodoAPI/TodoAPI.csproj",
+        "projectPath": "/home/wilton-freire-timoteo/Área de trabalho/ResidenciaTIC18/3. Trilha-DotNet/Aula03/TodoAPI/TodoAPI.csproj",
         "packagesPath": "/home/wilton-freire-timoteo/.nuget/packages/",
-        "outputPath": "/home/wilton-freire-timoteo/Área de trabalho/Residencia-Trilha/ExerciciosAula03/TodoAPI/obj/",
+        "outputPath": "/home/wilton-freire-timoteo/Área de trabalho/ResidenciaTIC18/3. Trilha-DotNet/Aula03/TodoAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wilton-freire-timoteo/.nuget/NuGet/NuGet.Config"

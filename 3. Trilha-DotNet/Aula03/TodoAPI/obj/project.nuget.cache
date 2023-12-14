@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cK2QnFz4FhRL1HbVLaEFibMN1E5MYONKQK5W8UQ3KQhmsMac7eeL1gecvvfSPqRkIp53qCcPhTnRUwasM6eO8w==",
+  "dgSpecHash": "QoR/1vkPbWoqx0yDVrY9kg8aw8d4ui6XRfMqSrT0i3rd89SuFbu8bAhpJG521iSugectT1noycufhXeA1X3B7g==",
   "success": true,
-  "projectFilePath": "/home/wilton-freire-timoteo/Área de trabalho/Residencia-Trilha/ExerciciosAula03/TodoAPI/TodoAPI.csproj",
+  "projectFilePath": "/home/wilton-freire-timoteo/Área de trabalho/ResidenciaTIC18/3. Trilha-DotNet/Aula03/TodoAPI/TodoAPI.csproj",
   "expectedPackageFiles": [
     "/home/wilton-freire-timoteo/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/7.0.0/microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.0.nupkg.sha512",
     "/home/wilton-freire-timoteo/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
